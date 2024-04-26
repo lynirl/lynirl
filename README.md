@@ -14,7 +14,3 @@ Here are a few of my currently known technologies! (constantly growing) <br><br>
 ![PostgreSQL](https://camo.githubusercontent.com/6644e550d6079f8b8ec281d92529a2293c2e34bf65798d5876123b9a60bc5280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-### If you're here for the SUKI project...
-[...Here is a link to the Gricad GitLab project.](https://gricad-gitlab.univ-grenoble-alpes.fr/iut2-info-stud/2023-s2/mega-sae/team-A1-10/genevent) <br>
-If you are not able to see it, please contact me and I'll try to upload it to a repository here.
